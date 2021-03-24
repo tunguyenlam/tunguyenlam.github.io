@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tu&#39;s blog</title>
+    <description>Where I write something about coding, machine learning, deeplearning, reinforcelearning notes.
+</description>
+    <link>http://tunguyenlam.github.io/</link>
+    <atom:link href="http://tunguyenlam.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 25 Mar 2021 00:43:17 +0800</pubDate>
+    <lastBuildDate>Thu, 25 Mar 2021 00:43:17 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Start writing again</title>
+        <description>&lt;p&gt;Today, I decide to start my blog again.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Mar 2021 00:29:44 +0800</pubDate>
+        <link>http://tunguyenlam.github.io/jekyll/update/2021/03/25/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://tunguyenlam.github.io/jekyll/update/2021/03/25/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

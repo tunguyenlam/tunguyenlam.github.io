@@ -1,1 +1,1 @@
-# tunguyenlam.github.io
+[blog](tunguyenlam.github.io)

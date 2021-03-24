@@ -1,1 +1,1 @@
-[blog](tunguyenlam.github.io)
+[blog](https://tunguyenlam.github.io/)
